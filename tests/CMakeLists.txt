@@ -23,8 +23,7 @@ EigenPrint::eigen_print
 Catch2::Catch2WithMain
 )
 target_include_directories(test_eigen_print PRIVATE
- 
-{CMAKE_CURRENT_SOURCE_DIR}/..
+${CMAKE_CURRENT_SOURCE_DIR}/..
 ${EIGEN_INCLUDE_DIRS}
 )
 target_compile_features(test_eigen_print PRIVATE cxx_std_20)
