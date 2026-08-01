@@ -35,5 +35,6 @@ dpl_creator.exe
 dplcreator.json
 patch.dpl
 run_patch.cmd
-
+create.cmd
+create.log
 project.dpl.txt
