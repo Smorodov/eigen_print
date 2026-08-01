@@ -1,0 +1,1 @@
+DPL_tools\dpl_creator.exe DPL_tools\dplcreator.cfg > create.log
